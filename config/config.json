@@ -1,0 +1,13 @@
+{
+    "authenticationMode": "MasterUser",
+    "authorityUri": "https://login.microsoftonline.com/common/v2.0",
+    "scope": "https://analysis.windows.net/powerbi/api",
+    "apiUrl": "https://api.powerbi.com/",
+    "clientId": "f4978d71-3dc9-4400-8741-2d8669babc86",
+    "workspaceId": "1e429e3e-98f4-4459-841e-6578855e5020",
+    "reportId": "e8c6f8d4-bd2e-4b46-862a-feb39921be14",
+    "pbiUsername": "admin@robbysonsystems.onmicrosoft.com",
+    "pbiPassword": "Home2020*",
+    "clientSecret": "s2p8Q~DnPhodHwAFLsFGgTRP9psP6aI.BwaJqbje",
+    "tenantId": "da02d7a6-5248-43a2-812e-dc9bffc4bda5"
+}
